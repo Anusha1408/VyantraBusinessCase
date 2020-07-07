@@ -1,0 +1,4 @@
+hibernate-configuration-3.0.dtd
+
+This file must be copy into
+Apache Tomcat bin directory
